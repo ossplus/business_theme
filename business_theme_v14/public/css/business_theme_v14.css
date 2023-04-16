@@ -71,7 +71,7 @@
 [data-theme="light"] {
   --bg-color: #f2f5fa;
   --text-bold: 600;
-  --control-bg: #fff;
+  --control-bg: #cbe0f46e;
   --control-bg-on-gray: #d4dcea;
   --disabled-control-bg: #f2f5fa;
   --heading-color: #333;
