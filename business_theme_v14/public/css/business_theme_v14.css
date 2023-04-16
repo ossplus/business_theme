@@ -283,7 +283,7 @@ symbol#icon-small-down {
   background-color: #f4f4f4;
 }
 
-.datatable .dt-row:nth-child(odd) {
+.datatable .dt-scrollable .dt-row:nth-child(odd) {
   --dt-cell-bg: #cccccc8c;
 }
 
